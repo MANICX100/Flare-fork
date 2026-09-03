@@ -22,6 +22,12 @@ Flare is an open-source, privacy-first social client that brings Mastodon, Missk
 <a href='https://f-droid.org/packages/dev.dimension.flare'><img alt='Get it on F-Droid' src='https://f-droid.org/badge/get-it-on.svg' width=150/></a>
 <a href='https://github.com/DimensionDev/Flare/releases/latest'><img alt='Download AppImage' src='docs/appimage_badge.svg' width=150/></a>
 
+## Fork changes
+Changes in this fork compared to upstream [DimensionDev/Flare](https://github.com/DimensionDev/Flare):
+ - User-selectable video playback speed (Android): choose any speed from 1x to 4x in 0.1x increments from the media viewer's player controls.
+ - Default playback speed setting (Android): set the speed used when opening videos under Settings → Appearance → Media.
+ - Open in external app (Android): open the currently selected media item (image, video, GIF, or audio) in an external app from the media viewer's top bar or long-press menu.
+
 ## Features
  - Unified social inbox: Flare brings Mastodon, Misskey, Bluesky, X, Pixiv, Fanbox, Nostr and RSS together in one place, so users can follow fragmented communities through a single timeline.
  - Mixed timeline experience: It merges content from multiple accounts and platforms into a coherent feed, reducing context switching between apps.
